@@ -1,0 +1,16 @@
+D:\Programação\DIO\Take Blip Fullstack #2\02 - Introdução .NET\IntroducaoNET\bin\Debug\net5.0\IntroducaoNET.exe
+D:\Programação\DIO\Take Blip Fullstack #2\02 - Introdução .NET\IntroducaoNET\bin\Debug\net5.0\IntroducaoNET.deps.json
+D:\Programação\DIO\Take Blip Fullstack #2\02 - Introdução .NET\IntroducaoNET\bin\Debug\net5.0\IntroducaoNET.runtimeconfig.json
+D:\Programação\DIO\Take Blip Fullstack #2\02 - Introdução .NET\IntroducaoNET\bin\Debug\net5.0\IntroducaoNET.runtimeconfig.dev.json
+D:\Programação\DIO\Take Blip Fullstack #2\02 - Introdução .NET\IntroducaoNET\bin\Debug\net5.0\IntroducaoNET.dll
+D:\Programação\DIO\Take Blip Fullstack #2\02 - Introdução .NET\IntroducaoNET\bin\Debug\net5.0\ref\IntroducaoNET.dll
+D:\Programação\DIO\Take Blip Fullstack #2\02 - Introdução .NET\IntroducaoNET\bin\Debug\net5.0\IntroducaoNET.pdb
+D:\Programação\DIO\Take Blip Fullstack #2\02 - Introdução .NET\IntroducaoNET\obj\Debug\net5.0\IntroducaoNET.csproj.AssemblyReference.cache
+D:\Programação\DIO\Take Blip Fullstack #2\02 - Introdução .NET\IntroducaoNET\obj\Debug\net5.0\IntroducaoNET.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\DIO\Take Blip Fullstack #2\02 - Introdução .NET\IntroducaoNET\obj\Debug\net5.0\IntroducaoNET.AssemblyInfoInputs.cache
+D:\Programação\DIO\Take Blip Fullstack #2\02 - Introdução .NET\IntroducaoNET\obj\Debug\net5.0\IntroducaoNET.AssemblyInfo.cs
+D:\Programação\DIO\Take Blip Fullstack #2\02 - Introdução .NET\IntroducaoNET\obj\Debug\net5.0\IntroducaoNET.csproj.CoreCompileInputs.cache
+D:\Programação\DIO\Take Blip Fullstack #2\02 - Introdução .NET\IntroducaoNET\obj\Debug\net5.0\IntroducaoNET.dll
+D:\Programação\DIO\Take Blip Fullstack #2\02 - Introdução .NET\IntroducaoNET\obj\Debug\net5.0\ref\IntroducaoNET.dll
+D:\Programação\DIO\Take Blip Fullstack #2\02 - Introdução .NET\IntroducaoNET\obj\Debug\net5.0\IntroducaoNET.pdb
+D:\Programação\DIO\Take Blip Fullstack #2\02 - Introdução .NET\IntroducaoNET\obj\Debug\net5.0\IntroducaoNET.genruntimeconfig.cache
